@@ -22,7 +22,3 @@ Some exercises, including the program that calculates a student's grade based on
 - `exercise_part_1.ipynb`: Basic exercises with no external libraries.
 - `exercise_part_2.ipynb`: Exercises using the matplotlib and numpy libraries.
 - `notes.ipynb`: Notes on certain commands and functions for learning.
-
---- 
-
-This translation reflects the structure and content of your original README in English.
